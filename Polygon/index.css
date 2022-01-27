@@ -1,0 +1,42 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{font-family: 'Manrope', sans-serif; padding-bottom: 8rem;}
+
+.header{display: flex; justify-content: space-between; max-width: 1200px; margin: 0 auto;}
+.header>ul{list-style: none; display: flex; justify-content: space-between; min-width: 50rem; align-items: center}
+.container{margin: 0 auto; max-width: 1200px;}
+.parrafoinicial{display: flex; align-items: center; justify-content: center; margin-top: 5rem; margin-bottom: 2rem;}
+.container2{max-width: 1200px; background-color:black; display: flex; align-items: center; margin: 0 auto; margin-top: 2rem;
+            align-items: stretch; flex-wrap: wrap; height: 8rem; justify-content: space-between; border-bottom: 8px solid blueviolet;}
+.primeraparte{display: flex; justify-content: flex-start; gap:2rem; height: 100%; align-items: center;}
+.segundaparte>ul{list-style: none; display: flex; min-width: 15rem; align-items: center; justify-content: flex-end; gap: 2rem; margin-right: 2rem; height: 100%;}
+.orden{display: flex; margin-top: 1.5rem;}
+.container3{display: flex; justify-content: space-around; padding: 6rem; gap: 12rem; background-color: #f5f5f5;}
+.minititulo{font-weight: 700;
+    font-size: 36px;}
+.container4{background-color:black; display: flex; align-items: center; max-width: 1200px; margin: 0 auto;
+        align-items: stretch; flex-wrap: wrap; height: 8rem; justify-content: space-between;}
+.container5{background-color: #f5f5f5;}
+.falopita{border-bottom: 8px solid blueviolet; max-width: 1200px; margin: 0 auto}
+
+#hr1{opacity: 0.25;}
+#hr2{opacity: 1; max-width: 1200px;}
+#Get_started{background-color:  #8247e5; padding: 1rem; color: white;}
+#Contact_us{background-color: white; color: black; padding: 1rem;}
+#News_Update{color: #8248e5; font-weight: 700; margin-right: 1.5rem;}
+#initial{padding-left: 20px;
+    padding-right: 20px; 
+    border-radius: 22px; 
+    background-color: #eee7fa;
+    padding: 1rem 3rem}
+#title{color: #000;
+    font-size: 51px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;}
+#pdescription{font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 32px;}
+#scale{color: white; font-weight: 800; font-size: 24px; margin-bottom: 0;}
+#tresmil{color:white}
+
